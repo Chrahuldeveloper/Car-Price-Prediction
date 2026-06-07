@@ -87,4 +87,3 @@ The script will:
 6. Plot the training loss curve.
 7. Predict the selling price for a sample car.
 
-This project is open-source and available under the MIT License.
